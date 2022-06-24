@@ -1,0 +1,1 @@
+This file is a brief synopsis of what the portfolio is supposed to look like. i have made physical markup that will be submitted via git due to the fact the markup is located on another device. this page entails: a section about me, a profile pic, contact information, resume, and a navigation bar that'll help guid through the website
